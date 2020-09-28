@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Contact list</string>
+    <string name="birthday">Birthday</string>
+    <string name="add">Add</string>
+    <string name="default_name"> Name </string>
+    <string name="default_surname"> Surname </string>
+    <string name="default_birthday"> DD/MM/RRRR </string>
+    <string name="default_number"> Phone Number </string>
+    <string name="wrong_date">Allowed date: DD/MM/RRRR</string>
+    <string name="wrong_number">Wrong number</string>
+
+    <string name="name_surname">Name and surname</string>
+    <string name="birthday_view">Birthday</string>
+    <string name="item_selected_contact"> Selected contact: </string>
+
+    <string name="delete_question"> Delete? </string>
+    <string name="confirm"> Yes </string>
+    <string name="cancel"> Cancel </string>
+
+    <string name="call"> Call? </string>
+    <string name="call_dialog_tag"> Call </string>
+
+    <string name="delete_dialog_tag"> Delete </string>
+    <string name="long_click_msg"> Call to </string>
+    <string name="delete_cancel_msg"> Cancelled </string>
+    <string name="retry_msg"> Try again </string>
+
+    <string name="delete_contact">Delete contact</string>
+</resources>
